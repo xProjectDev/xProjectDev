@@ -13,7 +13,6 @@
 - Création de sites web
 - Développement de solutions pour Discord
 - Développement sur les plateformes FiveM / RedM
-- Services de développement personnalisés
 - Conception et production graphique
 - Configuration et optimisation de serveurs Linux
 
